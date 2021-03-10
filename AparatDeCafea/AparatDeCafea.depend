@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1589385548 source:d:\folder nou\aparatdecafea\main.cpp
+	<iostream>
+
+1591680186 source:c:\folder nou\aparatdecafea\main.cpp
+	<iostream>
+	<conio.h>
+	"Aparat.h"
+	"Cafea.h"
+	"Cappucino.h"
+	"Ceai.h"
+	"Ciocolata.h"
+	"Depozit.h"
+	"Zahar.h"
+	"MetodeAparat.cpp"
+	"MetodeCafea.cpp"
+	"MetodeCappucino.cpp"
+	"MetodeCeai.cpp"
+	"MetodeCiocolata.cpp"
+	"MetodeDepozit.cpp"
+	"MetodeZahar.cpp"
+
+1591686081 c:\folder nou\aparatdecafea\aparat.h
+
+1591686081 c:\folder nou\aparatdecafea\cafea.h
+
+1591686081 c:\folder nou\aparatdecafea\cappucino.h
+
+1591686081 c:\folder nou\aparatdecafea\ceai.h
+
+1591686081 c:\folder nou\aparatdecafea\ciocolata.h
+
+1591686081 c:\folder nou\aparatdecafea\depozit.h
+
+1591686081 c:\folder nou\aparatdecafea\zahar.h
+
+1591689155 c:\folder nou\aparatdecafea\metodeaparat.cpp
+	<iostream>
+	<fstream>
+	"Aparat.h"
+
+1591689327 c:\folder nou\aparatdecafea\metodecafea.cpp
+	"Cafea.h"
+
+1591689327 c:\folder nou\aparatdecafea\metodecappucino.cpp
+	"Cappucino.h"
+
+1591689327 c:\folder nou\aparatdecafea\metodeceai.cpp
+	"Ceai.h"
+
+1591689327 c:\folder nou\aparatdecafea\metodeciocolata.cpp
+	"Ciocolata.h"
+
+1591689327 c:\folder nou\aparatdecafea\metodedepozit.cpp
+	"Depozit.h"
+
+1591689135 c:\folder nou\aparatdecafea\metodezahar.cpp
+	"Zahar.h"
+
